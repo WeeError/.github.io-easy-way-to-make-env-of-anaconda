@@ -8,7 +8,7 @@ env는 Python의 독립적인 가상의 실행 환경(Environment)를 말합니�
 ### env 생성
 ` conda create -n env_tf python=3.7 `
 
-Python 3.9 버전의 ‘snowdeer_env’라는 이름으로 env를 생성합니다. (현재 Windows에서 Keras를 설치할 거면 Python 버전을 3.6이 아닌 3.5로 해야 합니다.)
+Python 3.9 버전의 ‘env_tf’라는 이름으로 env를 생성합니다. (현재 Windows에서 Keras를 설치할 거면 Python 버전을 3.6이 아닌 3.5로 해야 합니다.)
 
 ### env 리스트 보기
 ` conda env list` 
